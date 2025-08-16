@@ -1,6 +1,4 @@
 # Technical Documentation Page
-
-## Description
 A clean, developer-friendly documentation page with a sidebar menu and well-organized sections. Designed to be easy to navigate and readable across devices.
 
 ## Features
